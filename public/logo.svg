@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1b6b4a"/>
+      <stop offset="100%" stop-color="#3cb878"/>
+    </linearGradient>
+  </defs>
+  <polygon points="10,48 22,12 28,28 43,6 51,26 62,14 72,36 80,8 96,32 110,16 124,38 138,10 148,28 156,20 164,40 174,8 184,34 196,18" fill="none" stroke="url(#g)" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="100" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="22" fill="#1b6b4a" letter-spacing="1">SUMMITLINE</text>
+  <text x="100" y="62" text-anchor="middle" font-family="Arial, sans-serif" font-weight="600" font-size="6" fill="#3cb878" letter-spacing="3">CLIMBING GYM</text>
+</svg>
